@@ -2862,7 +2862,7 @@ msgstr ""
 #: packages/lib/models/Setting.js:1562
 #, javascript-format
 msgid "Notes and settings are stored in: %s"
-msgstr "Les notes et paramètres se trouve dans : %s"
+msgstr "Les notes et paramètres se trouvent dans : %s"
 
 #: packages/lib/models/Resource.js:352
 msgid "Not downloaded"
@@ -2907,7 +2907,7 @@ msgstr "date de création"
 
 #: packages/lib/models/Note.js:38
 msgid "custom order"
-msgstr "ordre personalisé"
+msgstr "ordre personnalisé"
 
 #: packages/lib/models/Note.js:116
 msgid "This note does not have geolocation information."
@@ -2929,7 +2929,7 @@ msgstr "Chiffré"
 
 #: packages/lib/models/BaseItem.js:768
 msgid "Encrypted items cannot be modified"
-msgstr "Les objets chiffrés ne peuvent être modifiés"
+msgstr "Les objets chiffrés ne peuvent pas être modifiés"
 
 #: packages/lib/BaseApplication.js:149 packages/lib/BaseApplication.js:161
 #: packages/lib/BaseApplication.js:193
